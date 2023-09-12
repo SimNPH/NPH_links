@@ -1,5 +1,5 @@
 ---
-title: 'CONFIRMS NPH link list'
+title: 'CONFIRMS -- Non Proportional Hazards'
 filename: links.md
 layout: base
 --- 
@@ -17,3 +17,14 @@ layout: base
 
 * R-package: SimNPH: Simulate Non-Proportional Hazards. [https://simnph.github.io/SimNPH/](https://simnph.github.io/SimNPH/)
 * [https://sny.cemsiis.meduniwien.ac.at/%7Emp314/rsnph/](Shiny App to explore the simulation results)
+
+## CONsortium For Innovation in Regulatory Medical Statistics - CONFIRMS
+
+* **Center for Medical Data Science, Medical University of Vienna (MUW)**:  
+  Jonas Brugger, Harald Heinzl, Franz König, Martina Mittlböck, Martin Posch, Robin Ristl
+* **Department of Medical Statistics, University Medical Center Göttingen (UMG)**:  
+  Maximilian Bardo, Norbert Benda, Tim Friede, Cynthia Huber
+* **Pharmacometrics Research Group at Uppsala University (UU)**:  
+  Vaidotas Galaune, Andrew Hooker, Mats Karlson
+* **Austrian Agency for Health and Food Safety (AGES)**:  
+  Tobias Fellinger, Florian Klingmüller, Florian Stampfer, Susanne Urach
