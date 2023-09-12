@@ -1,5 +1,5 @@
 ---
-title: 'CONFIRMS -- Non Proportional Hazards'
+title: 'CONFIRMS — Non Proportional Hazards'
 filename: links.md
 layout: base
 --- 
