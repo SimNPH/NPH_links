@@ -7,6 +7,7 @@ layout: base
 ## Preprints
 
 * Bardo, M., Huber, C., Benda, N., Brugger, J., Fellinger, T., Galaune, V., Heinz, J., Heinzl, H., Hooker, A. C., Klinglmüller, F., König, F., Mathes, T., Mittlböck, M., Posch, M., Ristl, R., & Friede, T. (2023). Methods for non-proportional hazards in clinical trials: A systematic review. arXiv. [https://doi.org/10.48550/ARXIV.2306.16858](https://doi.org/10.48550/ARXIV.2306.16858)
+* Klinglmüller, F., Fellinger, T., König, F., Friede, T., Hooker, A. C., Heinzl, H., Mittlböck, M., Brugger, J., Bardo, M., Huber, C., Benda, N., Posch, M., & Ristl, R. (2023). A neutral comparison of statistical methods for time-to-event analyses under non-proportional hazards (Version 1). arXiv. [https://doi.org/10.48550/ARXIV.2310.05622](https://doi.org/10.48550/ARXIV.2310.05622)
 
 ## Study Protocols and Reports
 
@@ -16,4 +17,5 @@ layout: base
 ## R-package and Shiny App
 
 * R-package: SimNPH: Simulate Non-Proportional Hazards. [https://simnph.github.io/SimNPH/](https://simnph.github.io/SimNPH/)
-* [https://sny.cemsiis.meduniwien.ac.at/%7Emp314/rsnph/](Shiny App to explore the simulation results)
+* R-package: miniPCH: Survival Distributions with Piece-Wise Constant Hazards. [https://simnph.github.io/miniPCH/](https://simnph.github.io/miniPCH/)
+* Shiny App for Visualisation of Simulation Results: [https://github.com/SimNPH/ShinySimNPH]
