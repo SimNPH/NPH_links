@@ -18,4 +18,4 @@ layout: base
 
 * R-package: SimNPH: Simulate Non-Proportional Hazards. [https://simnph.github.io/SimNPH/](https://simnph.github.io/SimNPH/)
 * R-package: miniPCH: Survival Distributions with Piece-Wise Constant Hazards. [https://simnph.github.io/miniPCH/](https://simnph.github.io/miniPCH/)
-* Shiny App for Visualisation of Simulation Results: [https://github.com/SimNPH/ShinySimNPH]
+* Shiny App for Visualisation of Simulation Results: [https://github.com/SimNPH/ShinySimNPH](https://github.com/SimNPH/ShinySimNPH)
