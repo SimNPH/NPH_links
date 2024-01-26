@@ -14,8 +14,11 @@ layout: base
 * Report on the systematic literature review: Statistical analysis of trials where non proportional hazards are expected. (2022). [Techreport]. [https://www.encepp.eu/encepp/openAttachment/documents.otherDocument-0/49974](https://www.encepp.eu/encepp/openAttachment/documents.otherDocument-0/49974).
 * Protocol: A Simulation Study to Evaluate the Performance Characteristics of Statistical Methods for the Analysis of Time-To-Event Data under Non-Proportional Hazards. (2022). [Techreport]. [https://www.encepp.eu/encepp/openAttachment/fullProtocol/49769](https://www.encepp.eu/encepp/openAttachment/fullProtocol/49769).
 
-## R-package
+## R-packages
 
 * R-package: SimNPH: Simulate Non-Proportional Hazards. [https://simnph.github.io/SimNPH/](https://simnph.github.io/SimNPH/)
 * R-package: miniPCH: Survival Distributions with Piece-Wise Constant Hazards. [https://simnph.github.io/miniPCH/](https://simnph.github.io/miniPCH/)
-* Shiny App for Visualisation of Simulation Results: [https://github.com/SimNPH/ShinySimNPH](https://github.com/SimNPH/ShinySimNPH)
+
+## Simulation Results Shiny-App
+
+* Shiny App for Visualisation of Simulation Results: [https://simnph.github.io/SimResultsShinylive/about.html](https://simnph.github.io/SimResultsShinylive/about.html)
