@@ -14,8 +14,8 @@ layout: base
 
 ## Study Protocols and Reports
 
-* Report on the systematic literature review: Statistical analysis of trials where non proportional hazards are expected. (2022). [Techreport]. [https://www.encepp.eu/encepp/openAttachment/documents.otherDocument-0/49974](https://www.encepp.eu/encepp/openAttachment/documents.otherDocument-0/49974).
-* Protocol: A Simulation Study to Evaluate the Performance Characteristics of Statistical Methods for the Analysis of Time-To-Event Data under Non-Proportional Hazards. (2022). [Techreport]. [https://www.encepp.eu/encepp/openAttachment/fullProtocol/49769](https://www.encepp.eu/encepp/openAttachment/fullProtocol/49769).
+* Report on the systematic literature review: Statistical analysis of trials where non proportional hazards are expected. (2022). [Techreport]. [https://catalogues.ema.europa.eu/sites/default/files/document_files/Literature%20Review%20Rev.%202.pdf](https://catalogues.ema.europa.eu/sites/default/files/document_files/Literature%20Review%20Rev.%202.pdf).
+* Protocol: A Simulation Study to Evaluate the Performance Characteristics of Statistical Methods for the Analysis of Time-To-Event Data under Non-Proportional Hazards. (2022). [Techreport]. [https://catalogues.ema.europa.eu/sites/default/files/document_files/2022-10-14%20CONFIRMS%20Simulation%20Study%20Protocol%20rev2.pdf](https://catalogues.ema.europa.eu/sites/default/files/document_files/2022-10-14%20CONFIRMS%20Simulation%20Study%20Protocol%20rev2.pdf).
 
 ## R-packages
 
