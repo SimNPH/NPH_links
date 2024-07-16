@@ -16,6 +16,7 @@ layout: base
 
 * Report on the systematic literature review: Statistical analysis of trials where non proportional hazards are expected. (2022). [Techreport]. [https://catalogues.ema.europa.eu/sites/default/files/document_files/Literature%20Review%20Rev.%202.pdf](https://catalogues.ema.europa.eu/sites/default/files/document_files/Literature%20Review%20Rev.%202.pdf).
 * Protocol: A Simulation Study to Evaluate the Performance Characteristics of Statistical Methods for the Analysis of Time-To-Event Data under Non-Proportional Hazards. (2022). [Techreport]. [https://catalogues.ema.europa.eu/sites/default/files/document_files/2022-10-14%20CONFIRMS%20Simulation%20Study%20Protocol%20rev2.pdf](https://catalogues.ema.europa.eu/sites/default/files/document_files/2022-10-14%20CONFIRMS%20Simulation%20Study%20Protocol%20rev2.pdf).
+* A Review of EMA Public Assessment Reports where Non-Proportional Hazards were Identified. (2024). [Techreport]. [https://doi.org/10.48550/arXiv.2406.12492](https://doi.org/10.48550/arXiv.2406.12492).
 
 ## R-packages
 
@@ -24,4 +25,4 @@ layout: base
 
 ## Simulation Results Shiny-App
 
-* Shiny App for Visualisation of Simulation Results: [https://simnph.github.io/SimResultsShinylive/about.html](https://simnph.github.io/SimResultsShinylive/about.html)
+* Shiny App for Visualisation of Simulation Scenarios and Results: [https://simnph.github.io/SimResultsShinylive/about.html](https://simnph.github.io/SimResultsShinylive/about.html)
