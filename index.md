@@ -7,10 +7,7 @@ layout: base
 ## Papers
 
 * Bardo, M., Huber, C., Benda, N., Brugger, J., Fellinger, T., Galaune, V., Heinz, J., Heinzl, H., Hooker, A. C., Klinglmüller, F., König, F., Mathes, T., Mittlböck, M., Posch, M., Ristl, R., & Friede, T. (2023). Methods for non-proportional hazards in clinical trials: A systematic review. Statistical Methods in Medical Research. [https://doi.org/10.1177/09622802241242325](https://doi.org/10.1177/09622802241242325)
-  
-## Preprints
-
-* Klinglmüller, F., Fellinger, T., König, F., Friede, T., Hooker, A. C., Heinzl, H., Mittlböck, M., Brugger, J., Bardo, M., Huber, C., Benda, N., Posch, M., & Ristl, R. (2023). A neutral comparison of statistical methods for time-to-event analyses under non-proportional hazards (Version 1). arXiv. [https://doi.org/10.48550/ARXIV.2310.05622](https://doi.org/10.48550/ARXIV.2310.05622)
+* Klinglmüller, F., Fellinger, T., König, F., Friede, T., Hooker, A. C., Heinzl, H., Mittlböck, M., Brugger, J., Bardo, M., Huber, C., Benda, N., Posch, M., & Ristl, R. (2025). A Comparison of Statistical Methods for Time-To-Event Analyses in Randomized Controlled Trials Under Non-Proportional Hazards. [http://dx.doi.org/10.1002/sim.70019](http://dx.doi.org/10.1002/sim.70019)
 
 ## Study Protocols and Reports
 
